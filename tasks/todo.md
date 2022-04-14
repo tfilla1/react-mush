@@ -7,3 +7,10 @@ todo: build chat
 todo: build games
 todo: fix sidebar in main.css
 todo: change sidebar to one word in css etal
+todo: update colors in colors.css
+ - primary
+ - secondary
+ - accent
+ - success
+ - warning
+ 
